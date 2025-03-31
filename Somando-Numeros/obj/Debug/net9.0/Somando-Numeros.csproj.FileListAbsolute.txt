@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\bin\Debug\net9.0\Somando-Numeros.exe
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\bin\Debug\net9.0\Somando-Numeros.deps.json
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\bin\Debug\net9.0\Somando-Numeros.runtimeconfig.json
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\bin\Debug\net9.0\Somando-Numeros.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\bin\Debug\net9.0\Somando-Numeros.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.AssemblyInfo.cs
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.sourcelink.json
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\refint\Somando-Numeros.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\Somando-Numeros.genruntimeconfig.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Somando-Numeros\obj\Debug\net9.0\ref\Somando-Numeros.dll
