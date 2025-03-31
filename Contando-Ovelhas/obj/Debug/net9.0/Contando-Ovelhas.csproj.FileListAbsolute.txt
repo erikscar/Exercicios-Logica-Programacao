@@ -1,0 +1,14 @@
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.AssemblyInfo.cs
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\bin\Debug\net9.0\Contando-Ovelhas.exe
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\bin\Debug\net9.0\Contando-Ovelhas.deps.json
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\bin\Debug\net9.0\Contando-Ovelhas.runtimeconfig.json
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\bin\Debug\net9.0\Contando-Ovelhas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\bin\Debug\net9.0\Contando-Ovelhas.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\refint\Contando-Ovelhas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\Contando-Ovelhas.genruntimeconfig.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\Contando-Ovelhas\obj\Debug\net9.0\ref\Contando-Ovelhas.dll
