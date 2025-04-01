@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\bin\Debug\net9.0\NumeroDePessoasNoOnibus.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\bin\Debug\net9.0\NumeroDePessoasNoOnibus.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\bin\Debug\net9.0\NumeroDePessoasNoOnibus.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\bin\Debug\net9.0\NumeroDePessoasNoOnibus.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\bin\Debug\net9.0\NumeroDePessoasNoOnibus.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\refint\NumeroDePessoasNoOnibus.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\NumeroDePessoasNoOnibus.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\NumeroDePessoasNoOnibus\obj\Debug\net9.0\ref\NumeroDePessoasNoOnibus.dll
