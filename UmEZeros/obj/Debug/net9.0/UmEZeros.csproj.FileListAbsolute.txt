@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\bin\Debug\net9.0\UmEZeros.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\bin\Debug\net9.0\UmEZeros.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\bin\Debug\net9.0\UmEZeros.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\bin\Debug\net9.0\UmEZeros.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\bin\Debug\net9.0\UmEZeros.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\refint\UmEZeros.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\UmEZeros.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\UmEZeros\obj\Debug\net9.0\ref\UmEZeros.dll
