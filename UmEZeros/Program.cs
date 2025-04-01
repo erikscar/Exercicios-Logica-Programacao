@@ -18,5 +18,17 @@
             }
             return convertNumber;
         }
+
+
+        //ESSA É UMA FORMA, CONCATENAR OS NUMEROS EM UMA STRING E TRANSFORMAR EM BINÁRIO UTILIZANDO O Convert.ToInt32, QUE ACEITA UMA STRING E A BASE DE UM DETERMINADO NUMERO
+        //  public static int binaryArrayToNumber(int[] BinaryArray)
+        // {
+        //   string binary = "";
+        //   foreach(int i in BinaryArray)
+        //   {
+        //     binary += i;
+        //   }
+        //   return Convert.ToInt32(binary, 2);
+        // }
     }
 }
