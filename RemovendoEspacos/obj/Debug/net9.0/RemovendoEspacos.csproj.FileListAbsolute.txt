@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\bin\Debug\net9.0\RemovendoEspacos.exe
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\bin\Debug\net9.0\RemovendoEspacos.deps.json
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\bin\Debug\net9.0\RemovendoEspacos.runtimeconfig.json
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\bin\Debug\net9.0\RemovendoEspacos.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\bin\Debug\net9.0\RemovendoEspacos.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.AssemblyInfo.cs
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.sourcelink.json
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\refint\RemovendoEspacos.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\RemovendoEspacos.genruntimeconfig.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\RemovendoEspacos\obj\Debug\net9.0\ref\RemovendoEspacos.dll
