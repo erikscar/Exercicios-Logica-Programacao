@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\bin\Debug\net9.0\DuasSomas.exe
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\bin\Debug\net9.0\DuasSomas.deps.json
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\bin\Debug\net9.0\DuasSomas.runtimeconfig.json
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\bin\Debug\net9.0\DuasSomas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\bin\Debug\net9.0\DuasSomas.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.AssemblyInfo.cs
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.sourcelink.json
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\refint\DuasSomas.dll
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.pdb
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\DuasSomas.genruntimeconfig.cache
+C:\Users\eriks\Desktop\Logica-de-Programação\DuasSomas\obj\Debug\net9.0\ref\DuasSomas.dll
