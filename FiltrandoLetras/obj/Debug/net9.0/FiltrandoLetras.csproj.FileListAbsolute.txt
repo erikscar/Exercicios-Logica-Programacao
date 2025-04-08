@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\bin\Debug\net9.0\FiltrandoLetras.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\bin\Debug\net9.0\FiltrandoLetras.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\bin\Debug\net9.0\FiltrandoLetras.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\bin\Debug\net9.0\FiltrandoLetras.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\bin\Debug\net9.0\FiltrandoLetras.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\refint\FiltrandoLetras.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\FiltrandoLetras.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\FiltrandoLetras\obj\Debug\net9.0\ref\FiltrandoLetras.dll
