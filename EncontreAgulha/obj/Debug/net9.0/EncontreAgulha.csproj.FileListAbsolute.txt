@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\bin\Debug\net9.0\EncontreAgulha.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\bin\Debug\net9.0\EncontreAgulha.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\bin\Debug\net9.0\EncontreAgulha.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\bin\Debug\net9.0\EncontreAgulha.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\bin\Debug\net9.0\EncontreAgulha.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\refint\EncontreAgulha.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\EncontreAgulha.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreAgulha\obj\Debug\net9.0\ref\EncontreAgulha.dll

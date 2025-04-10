@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\bin\Debug\net9.0\BrincandoComDigitos.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\bin\Debug\net9.0\BrincandoComDigitos.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\bin\Debug\net9.0\BrincandoComDigitos.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\bin\Debug\net9.0\BrincandoComDigitos.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\bin\Debug\net9.0\BrincandoComDigitos.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\refint\BrincandoComDigitos.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\BrincandoComDigitos.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\BrincandoComDigitos\obj\Debug\net9.0\ref\BrincandoComDigitos.dll
