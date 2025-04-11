@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\bin\Debug\net9.0\OrdemDecrescente.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\bin\Debug\net9.0\OrdemDecrescente.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\bin\Debug\net9.0\OrdemDecrescente.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\bin\Debug\net9.0\OrdemDecrescente.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\bin\Debug\net9.0\OrdemDecrescente.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\refint\OrdemDecrescente.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\OrdemDecrescente.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\OrdemDecrescente\obj\Debug\net9.0\ref\OrdemDecrescente.dll
