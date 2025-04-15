@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\bin\Debug\net9.0\LadosIguaisArray.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\bin\Debug\net9.0\LadosIguaisArray.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\bin\Debug\net9.0\LadosIguaisArray.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\bin\Debug\net9.0\LadosIguaisArray.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\bin\Debug\net9.0\LadosIguaisArray.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\refint\LadosIguaisArray.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\LadosIguaisArray.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\LadosIguaisArray\obj\Debug\net9.0\ref\LadosIguaisArray.dll
