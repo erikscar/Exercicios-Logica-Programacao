@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\bin\Debug\net9.0\EncontreNumeroPrimo.exe
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\bin\Debug\net9.0\EncontreNumeroPrimo.deps.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\bin\Debug\net9.0\EncontreNumeroPrimo.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\bin\Debug\net9.0\EncontreNumeroPrimo.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\bin\Debug\net9.0\EncontreNumeroPrimo.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\refint\EncontreNumeroPrimo.dll
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.pdb
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\EncontreNumeroPrimo.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\Exercicios-Logica-Programacao\EncontreNumeroPrimo\obj\Debug\net9.0\ref\EncontreNumeroPrimo.dll
